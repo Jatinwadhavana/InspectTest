@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARInspectTest</string>
+    <string name="api_error">Feed error.</string>
+    <string name="try_again">Try again</string>
+</resources>
